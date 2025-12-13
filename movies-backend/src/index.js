@@ -1,6 +1,10 @@
 // src/index.js
 const express = require("express");
 const cors = require("cors");
+app.use(cors({
+  origin: "https://cinesnap-ticketbooking.netlify.app/",
+  credentials: true
+}));
 const dotenv = require("dotenv");
 const mongoose = require("mongoose");
 dotenv.config();
