@@ -1,0 +1,18 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn.lock
+pnpm-lock.yaml
+package-lock.json
+
+# Build outputs
+dist/
+build/
+
+# env files
+.env
+.env.local
+.env.*.local
+
+# VSCode
+.vscode/
