@@ -131,8 +131,9 @@ Backend runs on:
 arduino
 Copy code
 http://localhost:5000
-2️⃣ Start the Frontend
-bash
+```
+###2️⃣ Start the Frontend
+```bash
 Copy code
 cd client
 npm install
@@ -142,7 +143,8 @@ Frontend runs on:
 arduino
 Copy code
 http://localhost:5173
-🔒 Authentication & Authorization
+```
+###🔒 Authentication & Authorization
 JWT-based authentication
 
 Token stored securely in localStorage
@@ -153,7 +155,7 @@ Role-based access control for admin features
 
 Auto-login support after page refresh
 
-🎯 Learning Outcomes
+###🎯 Learning Outcomes
 Hands-on MERN stack development
 
 REST API design and integration
@@ -170,7 +172,7 @@ Real-world project structure and deployment readiness
 
 UI/UX design inspired by production applications
 
-🚧 Future Enhancements
+###🚧 Future Enhancements
 Online payment gateway integration
 
 Real-time seat locking using WebSockets
@@ -183,7 +185,7 @@ Admin analytics dashboard
 
 Email ticket confirmation
 
-👨‍💻 Developer
+###👨‍💻 Developer
 Narasimha
 Full Stack Developer | College Project
 
