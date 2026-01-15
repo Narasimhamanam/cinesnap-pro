@@ -113,7 +113,7 @@ TMDB_API_KEY=your_tmdb_api_key
 VITE_TMDB_API_KEY=your_tmdb_api_key
 ```
 ---
-###Website overlook
+###Website Client side overlook
 
 <img width="1909" height="862" alt="Image" src="https://github.com/user-attachments/assets/605afefe-f910-4628-b43c-510cf2d759b2" />
 <img width="1915" height="859" alt="Image" src="https://github.com/user-attachments/assets/a798c35d-ed21-4895-bd58-5a5f2bad8ee2" />
@@ -133,3 +133,13 @@ VITE_TMDB_API_KEY=your_tmdb_api_key
 <img width="1911" height="861" alt="Image" src="https://github.com/user-attachments/assets/7292fa13-f589-48cc-8c19-6feb162951ca" />
 
 <img width="1914" height="863" alt="Image" src="https://github.com/user-attachments/assets/9a5b1548-834c-4cb5-8289-4c0f335896a7" />
+
+---
+##website Admin Side overlook
+
+<img width="1916" height="859" alt="Image" src="https://github.com/user-attachments/assets/2c3a4e9a-c0f1-4942-a9a4-2085c8a78bf4" />
+<img width="1914" height="866" alt="Image" src="https://github.com/user-attachments/assets/af8d0eca-d3ec-4f12-af84-332919c61011" />
+<img width="1910" height="858" alt="Image" src="https://github.com/user-attachments/assets/7285c1f5-c948-4827-bd86-2079242074f4" />
+<img width="1911" height="859" alt="Image" src="https://github.com/user-attachments/assets/bbb45ea7-bb1b-4ed7-8835-d845a7d67acf" />
+<img width="1915" height="862" alt="Image" src="https://github.com/user-attachments/assets/0b54498c-d639-401d-aed6-5a9887f22425" />
+
