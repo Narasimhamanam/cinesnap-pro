@@ -112,3 +112,24 @@ TMDB_API_KEY=your_tmdb_api_key
 ```env
 VITE_TMDB_API_KEY=your_tmdb_api_key
 ```
+---
+###Website overlook
+
+<img width="1909" height="862" alt="Image" src="https://github.com/user-attachments/assets/605afefe-f910-4628-b43c-510cf2d759b2" />
+<img width="1915" height="859" alt="Image" src="https://github.com/user-attachments/assets/a798c35d-ed21-4895-bd58-5a5f2bad8ee2" />
+<img width="1915" height="864" alt="Image" src="https://github.com/user-attachments/assets/b24d04f7-3bfc-47d2-abc6-2f89b3f444d8" />
+
+<img width="1914" height="862" alt="Image" src="https://github.com/user-attachments/assets/040e205e-08c1-46d8-ac28-40935974aecd" />
+
+<img width="1913" height="862" alt="Image" src="https://github.com/user-attachments/assets/cf6d8bd0-5d65-4be1-9188-de99d6c97bb2" />
+
+
+<img width="1914" height="867" alt="Image" src="https://github.com/user-attachments/assets/597b09e4-61d2-403e-a5d5-7ca8901b9fde" />
+
+<img width="1913" height="873" alt="Image" src="https://github.com/user-attachments/assets/556b6cf8-c5da-48ce-b43d-41bda21ff92a" />
+
+<img width="1912" height="863" alt="Image" src="https://github.com/user-attachments/assets/e35cd127-4b81-402e-b420-5c7b9e5caf76" />
+
+<img width="1911" height="861" alt="Image" src="https://github.com/user-attachments/assets/7292fa13-f589-48cc-8c19-6feb162951ca" />
+
+<img width="1914" height="863" alt="Image" src="https://github.com/user-attachments/assets/9a5b1548-834c-4cb5-8289-4c0f335896a7" />
