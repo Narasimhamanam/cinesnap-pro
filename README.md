@@ -99,3 +99,16 @@ CineSnap-Pro/
 │
 └── README.md
 ```
+## ⚙️ Environment Variables
+
+### Backend (`backend/.env`)
+```env
+PORT=5000
+MONGO_URI=your_mongodb_connection_string
+JWT_SECRET=your_jwt_secret_key
+TMDB_API_KEY=your_tmdb_api_key
+```
+### Backend (`backend/.env`)
+```env
+VITE_TMDB_API_KEY=your_tmdb_api_key
+```
