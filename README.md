@@ -108,7 +108,7 @@ MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret_key
 TMDB_API_KEY=your_tmdb_api_key
 ```
-### Backend (`backend/.env`)
+### Frontend (`client/.env`)
 ```env
 VITE_TMDB_API_KEY=your_tmdb_api_key
 ```
@@ -228,6 +228,7 @@ MongoDB should be running locally or via MongoDB Atlas
 ---
 
 ### ✅ What I Fixed
+```yaml
 - Removed broken **“Copy code / bash / arduino” text
 - Proper Markdown headings
 - Correct code blocks
@@ -241,3 +242,4 @@ If you want, I can now:
 - Make it **resume & recruiter friendly**
 
 Just tell me 🚀
+```
