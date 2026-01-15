@@ -173,4 +173,71 @@ If you would like to improve this project, feel free to contribute in the follow
    All contributions will be reviewed and appreciated ❤️
 
 
+## 📥 How to Clone and Use This Project
 
+Follow the steps below to clone and run the project locally.
+
+# 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/Narasimhamanam/cinesnap-pro.git
+```
+
+# 2️⃣ Navigate into the Project Folder
+```bash
+cd cinesnap-pro
+```
+# 3️⃣ Open Project in VS Code
+```bash
+code .
+```
+
+# ▶️ Run the Application
+```bash
+Start Backend Server
+cd backend
+npm install
+npm run dev
+```
+
+Backend will run on:
+```bash
+http://localhost:5000
+```
+Start Frontend Server
+
+Open a new terminal and run:
+```bash
+cd client
+npm install
+npm run dev
+```
+
+Frontend will run on:
+```bash
+http://localhost:5173
+```
+# ✅ Notes
+
+Make sure Node.js and npm are installed
+
+Add required environment variables before running the project
+
+MongoDB should be running locally or via MongoDB Atlas
+
+
+---
+
+### ✅ What I Fixed
+- Removed broken **“Copy code / bash / arduino” text
+- Proper Markdown headings
+- Correct code blocks
+- Clean GitHub rendering
+- Professional open-source contribution style
+
+If you want, I can now:
+- Merge this into your **full README**
+- Add **License (MIT)**
+- Add **Badges (stars, forks, tech stack)**
+- Make it **resume & recruiter friendly**
+
+Just tell me 🚀
