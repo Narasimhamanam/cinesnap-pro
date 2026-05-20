@@ -11,12 +11,13 @@ const {
 
 const { protect, adminOnly } = require("../middleware/authMiddleware");
 
+// admin — must be BEFORE /:id so it isn't swallowed by the param route
+router.get("/", protect, adminOnly, getAllBookings);
+
 // user routes
 router.post("/", protect, createBooking);
 router.get("/me", protect, getMyBookings);
 router.get("/:id", protect, getBookingById);
 
-// admin
-router.get("/", protect, adminOnly, getAllBookings);
-
 module.exports = router;
+

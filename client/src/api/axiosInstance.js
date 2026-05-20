@@ -1,8 +1,7 @@
 import axios from "axios";
-import.meta.env;
 
 const api = axios.create({
-  baseURL: import.meta.env.VITE_API_URL, // backend URL
+  baseURL: `${import.meta.env.VITE_API_URL}/api`, // backend base URL + /api prefix
 });
 
 // Add token to every request (if available)
